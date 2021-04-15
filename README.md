@@ -1,5 +1,9 @@
-Integrantes de grupo:
+#Numero de grupo: NN
+
+#Integrantes de grupo:
 Federico Tessadro
+Agustin Zanetta
+
 
 # Calc
 
