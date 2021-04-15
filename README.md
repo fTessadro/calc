@@ -1,3 +1,6 @@
+Integrantes de grupo:
+Federico Tessadro
+
 # Calc
 
 Calculadora con funciones simples.
