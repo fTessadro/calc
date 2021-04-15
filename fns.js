@@ -28,6 +28,12 @@ function div(a, b) {
 }
 }
 
-function pow(a, b) {}
+function pow(a, b) {
+	if (b==0){
+	return 1;}
+	else { return Math.pow(a, b);}
+
+}
 
 module.exports = fns;
+

@@ -1,9 +1,11 @@
-#Numero de grupo: NN
+# Numero de grupo: NN
 
-#Integrantes de grupo:
-Federico Tessadro
-Agustin Zanetta
-Matias Chilano
+# Integrantes de grupo:
+Federico Tessadro-
+Agustin Zanetta-
+Matias Chilano-
+Jorge  Castano-
+
 
 # Calc
 
